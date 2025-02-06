@@ -6,7 +6,9 @@ Bem-vindo ao My Guide! Este site é projetado para organizar informações e aux
 
 - Navegação fácil: Nosso site é projetado para ser fácil de usar e navegar. Você pode encontrar tudo o que precisa em poucos cliques.
 
-Para começar a usar o Everyday Guide, basta visitar nosso site em https://www.my-guide.vercel.app. Lá, você pode explorar nossos modelos guias e anotações, criar tópicos específicos ou apenas guardar informações. Podendo compartilhar com amigos ou colegas.
+#### Como usar
+
+Para começar a usar o Everyday Guide, basta visitar nosso site em https://my-guide-three.vercel.app/. Lá, você pode explorar nossos modelos, criar tópicos específicos ou apenas guardar informações. Podendo compartilhar com amigos ou colegas.
 
 #### Contribuindo
 
